@@ -1,4 +1,4 @@
-# PDF Certificate Maker (App)
+# PDF Certificate Maker (Template)
 
 <img src="https://raw.githubusercontent.com/jamesrplee/certificate-app/main/public/og-image.png">
 
