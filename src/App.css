@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&family=Poppins:wght@800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&family=Poppins:wght@800&display=swap");
 
 :root {
-  --blue: #0379FF;
-  --light-blue: #9AC9FF;
-  --dark-blue: #0261CC;
+  --blue: #6998ab;
+  --light-blue: #1a374d;
   --white: #fff;
 }
 
@@ -13,7 +12,7 @@
 
 body {
   margin: 0;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 20px;
@@ -50,7 +49,7 @@ svg {
 }
 
 .content h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: var(--white);
   font-size: 3rem !important;
   line-height: 1;
